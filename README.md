@@ -1,6 +1,6 @@
 # Hands-on-ML
 
-[![Open In Studio Lab](https://studiolab.sagemaker.aws/studiolab.svg)](https://studiolab.sagemaker.aws/import/github/phaneo/Hands-on-ML/blob/master/path/to/notebook.ipynb)
+[![Open In Studio Lab](https://studiolab.sagemaker.aws/studiolab.svg)](https://studiolab.sagemaker.aws/import/github/phaneo/Hands-on-ML/blob/master/path/to/README.md)
 
 Notebooks with codes, notes taken and exercises from the book Hands-on ML with Scikit-Learn, Keras &amp; Tensorflow by Aurélien Géron
 
